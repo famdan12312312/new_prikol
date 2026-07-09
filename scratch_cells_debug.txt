@@ -1,0 +1,18 @@
+Col indices: Col0	Col1	Col2	Col3	Col4	Col5	Col6	Col7	Col8	Col9	Col10	Col11	Col12	Col13	Col14	Col15	Col16
+Row 04: а) осенний семестр																
+Row 05: Геометрическое моделирование		БВТ	5	32		64	2	6								104
+Row 06: 																
+Row 07: 					16											
+Row 08: 																
+Row 09: 																
+Row 10: 																
+Row 11: 																
+Row 12: 																
+Row 13: 																
+Row 14: 																
+Row 15: 																
+Row 16: 																
+Row 17: 																
+Row 18: Итого за семестр																104
+Row 19: Фактически выполнено за семестр																
+Row 20: б) весенний семестр																

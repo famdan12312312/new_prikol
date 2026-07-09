@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Базы данных SQLite (личные данные)
+*.sqlite
+*.db
+
+# Загруженные шаблоны (могут содержать персональные данные)
+_uploaded_template_*.xlsx
+
+# Сгенерированные планы
+generated_plans/
+individ_plan_2025_*.xlsx
+
+# Временные файлы
+*.tmp
+*.log
+
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Бэкапы (необязательно для репозитория)
+app_backup.py
+parser_engine_backup.py
+
+# Папка шаблонов (если содержит личные файлы — раскомментировать)
+# templates/

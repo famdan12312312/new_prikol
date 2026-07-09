@@ -1,0 +1,249 @@
+[
+  {
+    "filename": "individ_plrpr2024 Свешников.xlsx",
+    "sheet_name": "Тит. лист",
+    "document_type": "individual_plan",
+    "header_row_index": 0,
+    "columns_present": [
+      "Столбец 0 (Буква A) - \"Министерство науки и высшего образова...\"",
+      "Столбец 1 (Буква B)",
+      "Столбец 2 (Буква C)",
+      "Столбец 3 (Буква D)",
+      "Столбец 4 (Буква E)",
+      "Столбец 5 (Буква F)",
+      "Столбец 6 (Буква G)"
+    ],
+    "correct_mapping": {
+      "subject_name": null,
+      "group_name": null,
+      "semester_number": null,
+      "teacher_fio": null,
+      "hours_lectures": null,
+      "hours_practicals": null,
+      "hours_laboratories": null,
+      "hours_consultations": null,
+      "hours_exams": null,
+      "hours_zachets": null,
+      "hours_coursework": null,
+      "hours_practice": null,
+      "hours_vkr": null,
+      "hours_gek": null,
+      "hours_additional": null,
+      "hours_total": null,
+      "student_fio": null,
+      "student_profile": null,
+      "practice_type": null,
+      "practice_org": null,
+      "practice_kind": null
+    },
+    "correct_metadata": {
+      "employee_fio": {
+        "value": "Свешников Артем Юрьевич",
+        "coordinate": "B2",
+        "sheet": "Общие сведения"
+      },
+      "employee_position": {
+        "value": "",
+        "coordinate": "Ассистент 0.5 ставки"
+      },
+      "employee_rate": {
+        "value": "",
+        "coordinate": "0,5"
+      },
+      "employee_degree": {
+        "value": "",
+        "coordinate": ""
+      },
+      "employee_title": {
+        "value": "",
+        "coordinate": ""
+      },
+      "employee_contract_num": {
+        "value": "",
+        "coordinate": "№ТД203/23"
+      },
+      "employee_contract_date": {
+        "value": "",
+        "coordinate": "01.09.2023 "
+      },
+      "employee_contract_duration": {
+        "value": "",
+        "coordinate": "по 11.07.2027 года"
+      },
+      "employee_edu_institution": {
+        "value": "",
+        "coordinate": "ФГБОУ ВО \"ТГТУ\""
+      },
+      "employee_edu_year": {
+        "value": "",
+        "coordinate": "2023"
+      },
+      "employee_edu_specialty": {
+        "value": "",
+        "coordinate": "Интеллектуальный анализ данных и поддержка принятия решений "
+      },
+      "employee_edu_qualification": {
+        "value": "",
+        "coordinate": "магистр"
+      },
+      "department_name": {
+        "value": "",
+        "coordinate": "Системы автоматизированной поддержки принятия решений"
+      },
+      "department_head": {
+        "value": "",
+        "coordinate": "И.Л. Коробова"
+      },
+      "department_direction": {
+        "value": "",
+        "coordinate": ""
+      },
+      "institute_name": {
+        "value": "",
+        "coordinate": "Институт автоматики и информационных технологий"
+      },
+      "institute_director": {
+        "value": "",
+        "coordinate": ""
+      }
+    }
+  },
+  {
+    "filename": "individ_plrpr2023 Свешников.xlsx",
+    "sheet_name": "Общие сведения",
+    "document_type": "individual_plan",
+    "header_row_index": 0,
+    "transpose": true,
+    "columns_present": [
+      "Столбец 0 (Буква A) - \"ОБЩИЕ СВЕДЕНИЯ О ПРЕПОДАВАТЕЛЕ\"",
+      "Столбец 1 (Буква B) - \"дата, номер\"",
+      "Столбец 2 (Буква C)",
+      "Столбец 3 (Буква D) - \"Свешников Артем Юрьевич\"",
+      "Столбец 4 (Буква E)"
+    ],
+    "correct_mapping": {
+      "department_name": null,
+      "institute_name": null,
+      "employee_fio": [
+        2
+      ],
+      "employee_position_name": [
+        3
+      ],
+      "academic_year": null,
+      "department_head": null,
+      "employee_position": [
+        3
+      ],
+      "employee_rate": [
+        4
+      ],
+      "employment_conditions": [
+        5
+      ],
+      "employee_degree": [
+        6
+      ],
+      "employee_title": [
+        7
+      ],
+      "employee_contract": [
+        9
+      ],
+      "employee_contract_duration": [
+        10
+      ],
+      "employee_edu_institution": [
+        11
+      ],
+      "employee_edu_specialty": [
+        12
+      ],
+      "employee_edu_qualification": [
+        17
+      ],
+      "taught_subjects": [
+        21,
+        22,
+        24,
+        23,
+        25
+      ]
+    },
+    "correct_metadata": {
+      "employee_fio": {
+        "value": "Свешников Артем Юрьевич",
+        "coordinate": "B2",
+        "sheet": "Общие сведения"
+      },
+      "employee_position": {
+        "value": "ассистент",
+        "coordinate": "C3"
+      },
+      "employee_rate": {
+        "value": "0,5/внутренний совместитель",
+        "coordinate": "D5-D6"
+      },
+      "employee_degree": {
+        "value": "",
+        "coordinate": ""
+      },
+      "employee_title": {
+        "value": "",
+        "coordinate": ""
+      },
+      "employee_contract_num": {
+        "value": "№ТД203/23",
+        "coordinate": "E9"
+      },
+      "employee_contract_date": {
+        "value": "01.09.2023 ",
+        "coordinate": "F9"
+      },
+      "employee_contract_duration": {
+        "value": "по 31.08.2024 года",
+        "coordinate": "G10"
+      },
+      "employee_edu_institution": {
+        "value": "ФГБОУ ВО \"ТГТУ\" ",
+        "coordinate": "E11"
+      },
+      "employee_edu_year": {
+        "value": "2023",
+        "coordinate": "F12"
+      },
+      "employee_edu_specialty": {
+        "value": "",
+        "coordinate": ""
+      },
+      "employee_edu_qualification": {
+        "value": "Интеллектуальный анализ данных \t\t\t\t\t и поддержка принятия решений",
+        "coordinate": "H18"
+      },
+      "department_name": {
+        "value": "",
+        "coordinate": ""
+      },
+      "department_head": {
+        "value": "",
+        "coordinate": ""
+      },
+      "department_direction": {
+        "value": "",
+        "coordinate": ""
+      },
+      "institute_name": {
+        "value": "",
+        "coordinate": ""
+      },
+      "academic_year": {
+        "value": "",
+        "coordinate": ""
+      },
+      "taught_subjects": {
+        "value": "1. Информатика и вычислительная техника\t\t\t\t\t\t\t\t 2. Разработка информационного обеспечения\t\t\t\t\t\t\t\t 3. Системы автоматизированного проектирования\t\t\t\t\t\t\t\t 4. Сети и телекоммуникации\t\t\t\t\t\t\t\t 5. Программирование\t\t\t\t\t\t\t\t",
+        "coordinate": "A22-A26"
+      }
+    }
+  }
+]
